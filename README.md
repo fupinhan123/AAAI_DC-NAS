@@ -1,4 +1,4 @@
-# DC-NAS
+# **DC-NAS: Divide-and-Conquer Neural Architecture Search for Multi-Modal Classification（AAAI 2024 Oral）**
 **Description**: The software package includes Python code for the DC-NAS algorithm used for multi-modal feature fusion.
 It can perform a search for multi-modal feature fusion methods and significantly improve algorithm efficiency using a divide-and-conquer approach.
 This software package has been applied to multi-modal classification tasks.
@@ -6,6 +6,10 @@ This software package has been applied to multi-modal classification tasks.
 **Requirement**: The package was developed with python3 and tensorflow-gpu(2.0.3).
 
 **ATTN**: This package is free for academic usage. You can run it at your own risk.
+
+![image-20240223200128059](C:\Users\fupinhan\AppData\Roaming\Typora\typora-user-images\image-20240223200128059.png)
+
+
 Using their respective multimodal datasets only requires creating a file for the dataset, saving it, and placing it in the root directory.
 In the code, we have provided a directory named "data_set_rgb_depth" for the dataset. You just need to place your dataset inside this directory.
 We utilized the same hardware environment as the MFAS framework, which includes an NVIDIA Tesla P100 with 16 GB of GPU memory.
