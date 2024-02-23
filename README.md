@@ -7,8 +7,6 @@ This software package has been applied to multi-modal classification tasks.
 
 **ATTN**: This package is free for academic usage. You can run it at your own risk.
 
-![image-20240223200128059](C:\Users\fupinhan\AppData\Roaming\Typora\typora-user-images\image-20240223200128059.png)
-
 
 Using their respective multimodal datasets only requires creating a file for the dataset, saving it, and placing it in the root directory.
 In the code, we have provided a directory named "data_set_rgb_depth" for the dataset. You just need to place your dataset inside this directory.
