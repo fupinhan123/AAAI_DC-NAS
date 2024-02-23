@@ -6,8 +6,6 @@ This software package has been applied to multi-modal classification tasks.
 **Requirement**: The package was developed with python3 and tensorflow-gpu(2.0.3).
 
 **ATTN**: This package is free for academic usage. You can run it at your own risk.
-
-
 Using their respective multimodal datasets only requires creating a file for the dataset, saving it, and placing it in the root directory.
 In the code, we have provided a directory named "data_set_rgb_depth" for the dataset. You just need to place your dataset inside this directory.
 We utilized the same hardware environment as the MFAS framework, which includes an NVIDIA Tesla P100 with 16 GB of GPU memory.
