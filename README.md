@@ -6,7 +6,7 @@ This software package has been applied to multi-modal classification tasks.
 **Requirement**: The package was developed with python3 and tensorflow-gpu(2.0.3).
 
 **ATTN**: This package is free for academic usage. You can run it at your own risk.
-
+![image](https://github.com/fupinhan123/AAAI_DC-NAS/blob/main/framework.png)
 
 Using their respective multimodal datasets only requires creating a file for the dataset, saving it, and placing it in the root directory.
 In the code, we have provided a directory named "data_set_rgb_depth" for the dataset. You just need to place your dataset inside this directory.
