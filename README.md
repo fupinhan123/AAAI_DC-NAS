@@ -52,3 +52,15 @@ def get_configs():
 ```python
     $python train_DC.py
 ```
+
+If you find this repository useful, consider citing our paper:
+```
+@article{Liang2024DCNAS,
+author={Liang, Xinyan and Fu, Pinhan and Guo, Qian and Zheng, Keyin and Qian, Yuhua},
+title={DC-NAS: Divide-and-Conquer Neural Architecture Search for Multi-Modal Classification},
+journal={Proceedings of the AAAI Conference on Artificial Intelligence},
+volume={38}, 
+number={12},
+year={2024},
+pages={13754-13762}}
+```
